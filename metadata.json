@@ -1,0 +1,6 @@
+{
+  "name": "Bloom & Roast",
+  "description": "Specialty coffee crafting workbench with an expert AI barista, precision extraction timer, community brew experiments, and recipe history log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
